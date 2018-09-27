@@ -1,6 +1,6 @@
 # flexbox-display
 Experimenting with flexbox
 
-##Deploy
+# Deploy
 
 https://javi-flexbox.netlify.com/
